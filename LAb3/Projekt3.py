@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 26 14:46:36 2021
-
-@author: weron
+Lis Weronika
+Projekt003
+Scraping
 """
 
 import json
