@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 14 16:41:54 2021
-
-@author: weron
+Lis Weronika
+Projekt001
 """
 import argparse
 from collections import Counter
