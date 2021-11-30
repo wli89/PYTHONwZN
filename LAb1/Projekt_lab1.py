@@ -2,6 +2,7 @@
 """
 Lis Weronika
 Projekt001
+Histogram
 """
 import argparse
 from collections import Counter
