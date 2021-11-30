@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 15 14:06:44 2021
-
-@author: weron
+Lis Weronika
+Projekt002
+Isung
 """
 import argparse
 from rich.console import Console
