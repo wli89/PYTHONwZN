@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 29 21:58:20 2021
-
-@author: weron
+Lis Weronika
+Projekt004
+Selenium
 """
 import json
 import argparse
